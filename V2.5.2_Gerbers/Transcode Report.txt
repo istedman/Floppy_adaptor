@@ -1,0 +1,44 @@
+
+
+   ---- Transcoding 'C:\Users\Ian\Dropbox\Eagle_CAD\Ians_Projects\Floppy_Adaptor\V2.5\V2.5.2_Gerbers\Floppy_V2.5.2_production.gbl' ----   Mon Mar 12 23:42:42 2018
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+D18   --> D108
+D19   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Ian\Dropbox\Eagle_CAD\Ians_Projects\Floppy_Adaptor\V2.5\V2.5.2_Gerbers\Floppy_V2.5.2_production.gbs' ----   Mon Mar 12 23:42:46 2018
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+D14   --> D114
+D15   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Ian\Dropbox\Eagle_CAD\Ians_Projects\Floppy_Adaptor\V2.5\V2.5.2_Gerbers\Floppy_V2.5.2_production.gtl' ----   Mon Mar 12 23:42:55 2018
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+D17   --> D123
+D18   --> D124
+D19   --> D125
+D20   --> D126
+D21   --> D127
+D22   --> D128
+-----------------------------------------------------------------
